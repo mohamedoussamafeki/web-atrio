@@ -9,5 +9,8 @@ avec un exemple de body
   "prenom": "Feki",
   "dateDeNaissance": "1997-11-08"
 }
+
+
+
 le web service pour get : 
 http://localhost:8080/personnes
