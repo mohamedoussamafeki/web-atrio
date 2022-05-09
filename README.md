@@ -1,8 +1,11 @@
 # web-atrio
 
 le web service pour post : 
+
 http://localhost:8080/addPersonne
+
 avec un exemple de body 
+
 {
   "id": 1,
   "nom": "Mohamed Oussama",
@@ -13,4 +16,5 @@ avec un exemple de body
 
 
 le web service pour get : 
+
 http://localhost:8080/personnes
